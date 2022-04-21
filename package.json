@@ -1,0 +1,17 @@
+{
+  "name": "rewardcalculation",
+  "version": "1.0.0",
+  "description": "A program to calculate earned reward based on transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.28.0"
+  }
+}
